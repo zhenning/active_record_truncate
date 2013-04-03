@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ActiveRecordTruncate::VERSION
   spec.authors       = ["yinhm"]
   spec.email         = ["epaulin@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{active_record_truncate}
+  spec.summary       = %q{active_record_truncate}
   spec.homepage      = ""
   spec.license       = "MIT"
 
